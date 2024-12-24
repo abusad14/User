@@ -1,0 +1,11 @@
+#Node modules
+Client/node_modules/
+Server/node_modules/
+
+#Environment varibles
+Client/.env
+Server/.env
+
+#Build output
+Client/dist/
+Server/dist/
